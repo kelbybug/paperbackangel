@@ -1,0 +1,102 @@
+   PAPERBACKANGEL — SCM MUSIC PLAYER SKIN
+
+#scm {
+  font-family: Georgia, "Times New Roman", serif !important;
+}
+
+/* MAIN PLAYER BAR */
+
+#scm .scm-player {
+  background: #f5eedf !important;
+  border-top: 1px solid #74263f !important;
+  border-bottom: 2px solid #74263f !important;
+  box-shadow: 0 2px 6px rgba(23,40,67,.12) !important;
+}
+
+
+/* SONG TITLE */
+
+#scm .scm-title {
+  color: #172843 !important;
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-size: 13px !important;
+  font-style: italic !important;
+}
+
+
+/* CONTROLS */
+
+#scm .scm-prev,
+#scm .scm-play,
+#scm .scm-next {
+  color: #74263f !important;
+}
+
+
+/* PROGRESS BAR AREA */
+
+#scm .scm-progress {
+  background: #e8d9d0 !important;
+}
+
+
+/* PLAYED PORTION */
+
+#scm .scm-progress .scm-loaded,
+#scm .scm-progress .scm-played {
+  background: #e8b7c5 !important;
+}
+
+
+/* TIME */
+
+#scm .scm-time {
+  color: #74263f !important;
+  font-family: "Courier New", monospace !important;
+  font-size: 11px !important;
+}
+
+
+/* VOLUME */
+
+#scm .scm-volume {
+  color: #74263f !important;
+}
+
+
+/* PLAYLIST BUTTON */
+
+#scm .scm-list {
+  color: #74263f !important;
+}
+
+
+/* PLAYLIST PANEL */
+
+#scm .scm-playlist {
+  background: #f5eedf !important;
+  border-top: 2px solid #74263f !important;
+}
+
+
+/* PLAYLIST SONGS */
+
+#scm .scm-playlist li {
+  color: #172843 !important;
+  font-family: Georgia, "Times New Roman", serif !important;
+}
+
+
+/* CURRENT SONG */
+
+#scm .scm-playlist li.active {
+  background: #e8cbd3 !important;
+  color: #74263f !important;
+}
+
+
+/* LINKS */
+
+#scm a {
+  color: #74263f !important;
+}
